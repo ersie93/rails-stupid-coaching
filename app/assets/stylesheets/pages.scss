@@ -1,0 +1,36 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  font-family: Helvetica;
+  margin-left: 20px;
+}
+
+.card {
+  border-left: 4px solid #a7a8a8;
+  width: 50%;
+  height: 50px;
+  background-color: #ebeded;
+  margin: 10px 0;
+  padding: 10px 10px;
+  border-radius: 0 5px 5px 0;
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+  p {
+  color: #5c5e5e;
+  }
+}
+
+.input-bar {
+  width: 30%;
+  height: 23px;
+}
+
+.input-button {
+  width: 50px;
+  padding: 5px;
+  background-color: #84b8b8;
+  border-radius: 0 10px 10px 0;
+  border: 1px solid #c9d6d6;
+}
+
